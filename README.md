@@ -9,4 +9,4 @@ Twitter에서 제공하는 API인 tweepy를 사용하며, 해당 앱 개발을 �
 이때 주소를 통해 게시글의 성질을 분류하여 각각 다른 내용이 트윗으로 작성될 수 있도록 합니다.
 
 ▼ 작동 이미지
-[twitter](./twitter.png)
+![twitter](./twitter.png)
